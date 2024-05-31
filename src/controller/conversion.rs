@@ -36,7 +36,6 @@ pub fn convert_fen_char_to_display(fen: char) -> char {
         'B' => '♝',
         'N' => '♞',
         'P' => '♟',
-
         'k' => '♔',
         'q' => '♕',
         'r' => '♖',

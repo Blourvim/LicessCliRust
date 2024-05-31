@@ -16,6 +16,8 @@ uuid = { version = "^1.0", features = ["serde", "v4"] }
 tokio = { version = "1.35.1", features = ["full"] }
 termion = "3.0.0"
 rocket = "0.5.0"
+ratatui = { version = "0.26.3", features = ["all-widgets"] }
+crossterm = "0.27.0"
 [dependencies.reqwest]
 version = "^0.11"
 features = ["json", "multipart","stream"]
