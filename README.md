@@ -8,12 +8,6 @@ Certainly! Here's a basic README.md template for your Rust project, a Lichess CL
 
 A command-line interface (CLI) frontend for interacting with Lichess, written in Rust.
 
-## Features
-
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-
 ## Installation
 
 To use this CLI tool, you'll need Rust installed. Then, you can install the tool using Cargo:
@@ -36,8 +30,7 @@ cargo install lichess-cli
 
 ## Contributing
 
-Contributions are welcome! Please see our [Contributing Guidelines](CONTRIBUTING.md) for more details.
-
+Contributions are welcome! 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
